@@ -2,10 +2,9 @@
 
 - 🔦 I'm currently looking my first job.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Java.
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: Did you know that everyone who is in high positions today was once a beginner and also needed the first opportunity to get where they are today?       #hirejuniors
 
-## Studyin in this moment:
+## Studying in this moment:
 
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
